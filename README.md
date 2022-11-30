@@ -1,9 +1,10 @@
 # github-notes
-* GIT:is a software that helps you organise your fiels, or we can call this VERSION CONTROL.
+* GIT:is a software that helps you organize your files, or we can call this VERSION CONTROL.
 
-* GITHUB: is a website/web survice where you can do GIT things on the GITHUB website.
+* GITHUB: is a website/web service where you can do GIT things on the GITHUB website.
 
-* Repository/Repo: A Project with multipule fiels.
+* Repository/Repo: A Project with multiple fields.
 
-* Commit: Is a save button weather your adding somthing or removing something you need to commit meaning "save". when you want to change something a finoshed with that change you can add a note and then commit.
-* A commit HASH is sorta like an ID/Identifier for the certin change/commit.
+* Commit: Is a save button whether you're adding something or removing something you need to commit meaning "save". When you want to change something and finish with that change you can add a note and then commit.
+
+* A commit HASH is sorta like an ID/Identifier for the certain change/commit.
